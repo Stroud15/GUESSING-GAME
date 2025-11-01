@@ -30,6 +30,7 @@ until the user guesses correctly.
             OUTPUT "Congratulations! You guessed correctly!"
         ENDIF
     UNTIL guess = secret_number
+    END LOOP
 END
 
 
