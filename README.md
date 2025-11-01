@@ -3,7 +3,7 @@
 # Project Author: DADA MORUF OLAWALE
 
 
-## 👩‍💻 Peer Reviewer
+## 👩‍💻 Peer Reviewer - OPEOLUWA OYEBANJI
 
 # Project Description
 This project is a simple number guessing game algorithm.
@@ -18,7 +18,7 @@ until the user guesses correctly.
 
    BEGIN
     secret_number ← RANDOM(1, 10)
-    REPEAT
+    LOOP
         OUTPUT "Guess the number (between 1 and 10): "
         INPUT guess
 
